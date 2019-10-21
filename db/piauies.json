@@ -1,0 +1,257 @@
+{
+  "slang": [
+    {
+      "name": "apulumado",
+      "meaning": "Vaidoso.",
+      "description": "Pessoa que cuida bem da aparência, vaidosa.",
+      "example": "A luiza é uma mulher bem apulumada."
+    },
+    {
+      "name": "botar boneco",
+      "meaning": "Colocar dificuldade.",
+      "description": "Se fazer de difícil.",
+      "example": "Eu estou tentando namorar com a Letícia, mas ela fica botando boneco."
+    },
+    {
+      "name": "brocado",
+      "meaning": "Faminto.",
+      "description": "Pessoa com muita fome.",
+      "example": "Vou já embora, porque eu tô brocado."
+    },
+    {
+      "name": "bruguelo",
+      "meaning": "Bebê.",
+      "description": "Criança bastante nova.",
+      "example": "O filho da sabrina nasceu semana passada, tu já foi ver o bruguelo?"
+    },
+    {
+      "name": "cagado",
+      "meaning": "Sortudo.",
+      "description": "Pessoa com sorte.",
+      "example": "O Francisco é muito cagado, acertou a questão da prova no chute."
+    },
+    {
+      "name": "cagado e cuspido",
+      "meaning": "Igual.",
+      "description": "Quando se possui uma semelhança de aparência muito grande.",
+      "example": "O Felipe é cagado e cuspido a mãe."
+    },
+    {
+      "name": "caiau",
+      "meaning": "Desgastado, velho.",
+      "description": "Uma situação de má estado de conservação.",
+      "example": "A bicicleta do brendo ta só o caiau."
+    },
+    {
+      "name": "cansado",
+      "meaning": "Pessoa feia.",
+      "description": "Pessoa desprovida de beleza.",
+      "example": "O joão é cansado."
+    },
+    {
+      "name": "cantando vantagem",
+      "meaning": ".",
+      "description": "Pessoa desprovida de beleza.",
+      "example": "O joão é cansado."
+    },
+    {
+      "name": "carniça",
+      "meaning": "Pessoa ruim.",
+      "description": "Pessoa que é ruim, má, indesejada.",
+      "example": "A minha sogra é carniça."
+    },
+    {
+      "name": "chegado",
+      "meaning": "Amigo.",
+      "description": "Pessoa amiga, íntima.",
+      "example": "Iae meu chegado! Tudo beleza?"
+    },
+    {
+      "name": "considerado",
+      "meaning": "Respeitado.",
+      "description": "Pessoa com bastante prestígio.",
+      "example": "O seu Zé é considerado."
+    },
+    {
+      "name": "cunhã",
+      "meaning": "Garota.",
+      "description": "Usado no sentindo de ofensa, deboche.",
+      "example": "Só quer saber de macho, essa cunhã sem vergonha."
+    },
+    {
+      "name": "despachado",
+      "meaning": "Sem jeito.",
+      "description": "Algo sem solução.",
+      "example": "Se o motor daquela moto der problema, tá despachado."
+    },
+    {
+      "name": "gaiato",
+      "meaning": "Incoveniente.",
+      "description": "Pessoa que faz brincadeiras inconvenientes.",
+      "example": "Vou embora, porque lá vem chegando o gaiato."
+    },
+    {
+      "name": "grande bosta",
+      "meaning": "Grande coisa.",
+      "description": "Usado no sentido de deboche, diminuir o valor de algo/alguém.",
+      "example": "Ele se acha, só porque tem um carro, grande bosta aquela lata velha."
+    },
+    {
+      "name": "invocado",
+      "meaning": "Zangado.",
+      "description": "Pessoa com paciência curta.",
+      "example": "Qualquer brincadeira, a bruna já se invoca."
+    },
+    {
+      "name": "jogar no mato",
+      "meaning": "Jogar fora.",
+      "description": "Se desfazer de algo jogando no lixo.",
+      "example": "Essa xícara não presta mais, joga no mato."
+    },
+    {
+      "name": "mela cueca",
+      "meaning": "Medroso.",
+      "description": "Pessoa que possui muito medo.",
+      "example": "O junior é um mela cueca."
+    },
+    {
+      "name": "moiado",
+      "meaning": "Feio.",
+      "description": "Pessoa desprovida de beleza.",
+      "example": "Aquele cara é moiado."
+    },
+    {
+      "name": "mudelo",
+      "meaning": "Jeito.",
+      "description": "O jeito de ser ou de fazer algo.",
+      "example": "O mudelo daquele menino é muito estranho."
+    },
+    {
+      "name": "pagar o ferreira",
+      "meaning": "Fazer cocô.",
+      "description": "Ir ao banheiro fazer o numero 2, defecar.",
+      "example": "Depois a gente conversa, porque eu vou já pagar o ferreira."
+    },
+    {
+      "name": "paia",
+      "meaning": "Ruim, chato.",
+      "description": "Algo/alguém que é chato, ruim.",
+      "example": "Esse celular é muito paia."
+    },
+    {
+      "name": "parecido",
+      "meaning": "Bonito.",
+      "description": "Pessoa bonita.",
+      "example": "O filho da Lurdes é um rapaz bem parecido."
+    },
+    {
+      "name": "pariceiro",
+      "meaning": "Amigo, colega, companheiro.",
+      "description": "Pessoa que faz parte do círculo de relacionamento.",
+      "example": "Tu me respeita, que eu não sou tuas pariceiras!"
+    },
+    {
+      "name": "passa pro limpo",
+      "meaning": "Vem pra cima.",
+      "description": "Chamar alguem para uma briga.",
+      "example": "Quero ver se tu tem coragem é agora, passa pro limpo."
+    },
+    {
+      "name": "pé de pano",
+      "meaning": "Amante.",
+      "description": "Homem com quem uma mulher compromissada trai o companheiro.",
+      "example": "Toda vez que o João sai pro trabalho, o pé de pano aproveita."
+    },
+    {
+      "name": "pegou ar",
+      "meaning": "Ficou bravo.",
+      "description": "Ficar com raiva depois de alguma situação.",
+      "example": "Zoaram tanto o brendo, que ele pegou ar."
+    },
+    {
+      "name": "pegar o bandeco",
+      "meaning": "Ir comer algo.",
+      "description": "Ato de ir alimentar-se.",
+      "example": "A conversa tá boa, mas vou já pegar o bandeco."
+    },
+    {
+      "name": "pegar o beco",
+      "meaning": "Ir embora.",
+      "description": "Sair de algum lugar.",
+      "example": "Vou pegar o beco, porque a festa começa às 22:00 hrs."
+    },
+    {
+      "name": "peidar na cueca",
+      "meaning": "Fazer cocô nas calças.",
+      "description": "Obrar na roupa. Geralmente relacionado a medo.",
+      "example": "O Fernando tomou um susto, que ele quase peidou na cueca."
+    },
+    {
+      "name": "pertubado",
+      "meaning": "Pessoa louca.",
+      "description": "Pessoa que possui problemas mentais.",
+      "example": "Não fala pro Rafael, porque ele é pertubado."
+    },
+    {
+      "name": "pica grossa",
+      "meaning": "Importante.",
+      "description": "Pessoa importante, poderosa.",
+      "example": "Ali no camarote, é só os pica grossa."
+    },
+    {
+      "name": "rumação",
+      "meaning": "Situação.",
+      "description": "Algo que está acontecendo.",
+      "example": "Que rumação é essa?"
+    },
+    {
+      "name": "rumbora",
+      "meaning": "Vamos.",
+      "description": "Usado para convidar, chamar para ir à algum lugar, deslocar-se de um lugar para outro.",
+      "example": "Rumbora logo, que nos estamos atrasadas!"
+    },
+    {
+      "name": "sem futuro",
+      "meaning": "Sem perspectiva.",
+      "description": "Quando algo/alguém é um caso perdido.",
+      "example": "O namorado da Lúcia é um sem futuro."
+    },
+    {
+      "name": "tibira",
+      "meaning": "Cheio.",
+      "description": "Ficar muito cheio, depois de comer algo.",
+      "example": "Comi tanto no almoço que fiquei tibira."
+    },
+    {
+      "name": "torou brita",
+      "meaning": "Se deu mal.",
+      "description": "Passar por uma situação desagradável.",
+      "example": "Ele mentiu para a mulher, e torou brita."
+    },
+    {
+      "name": "torou mi seco",
+      "meaning": "Se deu mal.",
+      "description": "Passar por uma situação desagradável.",
+      "example": "Ele apostou tudo que tinha pensando que ia ganhar, e torou mi seco."
+    },
+    {
+      "name": "te alui",
+      "meaning": "Se liga.",
+      "description": "Prestar atenção, ficar atento.",
+      "example": "Te alui, porque eu tenho certeza que ela está ti enganando."
+    },
+    {
+      "name": "tela",
+      "meaning": "Rosto.",
+      "description": "A face de uma pessoa.",
+      "example": "O Marcelo tem a tela meio estranha."
+    },
+    {
+      "name": "tora",
+      "meaning": "Pedaço.",
+      "description": "Fatia de algo.",
+      "example": "Se você ver o tamanho da tora do bolo que ele comeu."
+    }
+  ]
+}
+
